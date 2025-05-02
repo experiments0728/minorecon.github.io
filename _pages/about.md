@@ -9,4 +9,8 @@ title: "About"
 
 ### [English version](https://economicslive.com/)
 
+<<<<<<< HEAD
 ### [Hindi version](https://economicslive.in/)
+=======
+### [Hindi version](https://economicslive.in/)
+>>>>>>> origin
