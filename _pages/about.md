@@ -1,16 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
-### This website is for the students who have taken Economics as their minor paper and specially for the students of Ranchi University.
+title:  "Welcome to Economics Minor!"
+---
+# [English](https://economicslive.com/)
 
-### This consists of both the versions English as well as Hindi. 
-
-### [English version](https://economicslive.com/)
-
-<<<<<<< HEAD
-### [Hindi version](https://economicslive.in/)
-=======
-### [Hindi version](https://economicslive.in/)
->>>>>>> origin
+# [Hindi](https://economicslive.in/)
