@@ -7,6 +7,6 @@ title: "About"
 
 ### This consists of both the versions English as well as Hindi. 
 
-### [English version]("https://economicslive.com/")
+### [English version](https://economicslive.com/)
 
-### [Hindi version]("https://economicslive.in/")
+### [Hindi version](https://economicslive.in/)
