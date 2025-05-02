@@ -1,6 +1,5 @@
-layout: post
-title:  "Welcome to Economics Minor!"
+# Welcome to Economics Minor
 ---
-# [English](https://economicslive.com/)
+## [English](https://economicslive.com/)
 
-# [Hindi](https://economicslive.in/)
+## [Hindi](https://economicslive.in/)
